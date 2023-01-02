@@ -1,6 +1,6 @@
 # lungsound_detectorapp
 
-A new Flutter project.
+This project is machine leaning project in that project ui i developed using flutter frameword 
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Group 13](https://user-images.githubusercontent.com/99733653/210198000-0feadeca-30a7-4d5c-a4c6-84f8c4cd6c89.png)
