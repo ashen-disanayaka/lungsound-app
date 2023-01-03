@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lungsound_detectorapp/filePicker.dart';
-import 'package:lungsound_detectorapp/home.dart';
-import 'package:lungsound_detectorapp/landing.dart';
+
+import 'package:lungsound_detectorapp/selector_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
       ),
-      home: Landing(),
+      home: Selector_page(),
     );
   }
 }

@@ -40,7 +40,7 @@ class _HomeState extends State<Home> {
                      'Detector',
                      style: TextStyle(
                          fontSize: 32,
-
+                         fontWeight: FontWeight.w300,
                          color: Colors.white),
                    ),
                  ),
