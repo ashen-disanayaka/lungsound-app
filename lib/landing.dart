@@ -1,6 +1,7 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lungsound_detectorapp/login.dart';
+import 'package:lungsound_detectorapp/selector_page.dart';
 import "package:page_transition/page_transition.dart";
 
 class Landing extends StatelessWidget {
@@ -35,7 +36,7 @@ class Landing extends StatelessWidget {
         ),
       ),
       backgroundColor: Color(0xff48CE9F),
-      nextScreen: Login(),
+      nextScreen: Selector_page(),
       splashIconSize: 250,
       duration: 3000,
       splashTransition: SplashTransition.fadeTransition,

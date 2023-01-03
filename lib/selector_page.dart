@@ -38,9 +38,9 @@ class Selector_page extends StatelessWidget {
                         fontSize: 32,
                         fontWeight: FontWeight.w300,
                         color: Colors.white),
-                  ),gi
+                  ),
                 ),
-                SizedBox(height: 100,),
+                SizedBox(height: 90,),
                 Flexible(
                   flex: 0,
                   child: InkResponse(

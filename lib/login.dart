@@ -39,8 +39,8 @@ class _LoginState extends State<Login> {
               const SizedBox(
                 height: 18,
               ),
-              Center(
-                child: const Text(
+              const Center(
+                child: Text(
                   'SIGN IN',
                   style: TextStyle(
                       fontSize: 17,
@@ -48,8 +48,8 @@ class _LoginState extends State<Login> {
                       color: Colors.black),
                 ),
               ),
-              Center(
-                child: const Text(
+              const Center(
+                child: Text(
                   'TO CONTINUE',
                   style: TextStyle(
                       fontSize: 17,
@@ -175,7 +175,7 @@ class _LoginState extends State<Login> {
                Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                   Text(
+                   const Text(
                     'Don’t have an account?',
                     style: TextStyle(
                       color: Colors.black54,
