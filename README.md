@@ -2,16 +2,11 @@
 
 This project is machine leaning project in that project ui i developed using flutter frameword 
 
-## Getting Started
+## discription 
+Developed mobile application using flutter framework. Flutter uses the Dart programming language, which is an object-oriented language with a syntax similar to that of Java or C#. Flutter also provides a large selection of customizable widgets and tools for building beautiful and responsive user interfaces.
+One of the key features of Flutter is its hot reload feature, which allows you to make changes to your code and see the results in real-time, without having to manually stop and restart the app. This makes it easier to test and iterate on your app during development.
+Overall, Flutter is a powerful and easy-to-use framework for developing mobile applications for Android and iOS. Its extensive widget library and hot reload feature make it a popular choice for developers looking to build high-quality, cross-platform apps quickly and efficiently. Therefore, we developed our application using flutter.
+We connect our user interface and model using rest API and authentication part developed using firebase. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# display_output: 
 ![Group 13](https://user-images.githubusercontent.com/99733653/210198000-0feadeca-30a7-4d5c-a4c6-84f8c4cd6c89.png)
