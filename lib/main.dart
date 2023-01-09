@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lungsound_detectorapp/crackles.dart';
 import 'package:lungsound_detectorapp/landing.dart';
+import 'package:lungsound_detectorapp/pages.dart';
 
 
 void main() {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
       ),
-      home: const Crackles_page(),
+      home: const Pages(),
     );
   }
 }
