@@ -48,7 +48,7 @@ class _AsethmaState extends State<Asethma> {
             Padding(
               padding:  EdgeInsets.all(15),
               child: Container(
-                height: 780,
+                height: 800,
                 width: 300,
                 decoration: BoxDecoration(
                   color: Colors.white,
@@ -134,7 +134,7 @@ class _AsethmaState extends State<Asethma> {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 40,),
+                    const SizedBox(height: 30,),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
