@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:lungsound_detectorapp/home.dart';
+import 'package:lungsound_detectorapp/homeone.dart';
 import 'package:lungsound_detectorapp/register.dart';
 
 class Login extends StatefulWidget {
@@ -110,7 +111,7 @@ class _LoginState extends State<Login> {
                   onTap: (){
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) =>Home() ),
+                      MaterialPageRoute(builder: (context) =>Home_one() ),
                     );
                   },
                   child: Padding(

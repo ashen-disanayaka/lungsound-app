@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lungsound_detectorapp/homeone.dart';
 import 'package:lungsound_detectorapp/landing.dart';
 import 'package:lungsound_detectorapp/pages.dart';
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
       ),
-      home: const Pages(),
+      home: const Home_one(),
     );
   }
 }
